@@ -2,6 +2,12 @@ h1{
     color:red;
     text-align: center;
 }
+h2{
+    color:brown;
+}
 h3{
     color: blue;
+}
+div{
+    text-align: right;
 }
